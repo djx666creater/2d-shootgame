@@ -73,3 +73,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+# 在 .gitignore 中添加以下内容
+echo "/[Ll]ibrary/" >> .gitignore
+echo "/[Tt]emp/" >> .gitignore
+echo "/[Bb]uild/" >> .gitignore
+echo "/[Pp]ackages/" >> .gitignore
