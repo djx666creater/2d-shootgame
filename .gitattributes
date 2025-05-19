@@ -1,2 +1,4 @@
 Assets/Textures/*.psd filter=lfs diff=lfs merge=lfs -text
 Assets/Models/*.fbx filter=lfs diff=lfs merge=lfs -text
+Game/2d-shootgame/Library/PackageCache/com.unity.burst@1.8.7/.Runtime/*.dylib filter=lfs diff=lfs merge=lfs -text
+Game/2d-shootgame/Library/PlayerDataCache/**/*.assets.resS filter=lfs diff=lfs merge=lfs -text
